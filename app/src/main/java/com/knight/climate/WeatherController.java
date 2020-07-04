@@ -1,4 +1,4 @@
-package com.londonappbrewery.climapm;
+package com.knight.climate;
 
 import android.Manifest;
 import android.content.Context;
@@ -18,6 +18,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.knight.climate.R;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.JsonHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
